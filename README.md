@@ -3,7 +3,7 @@ List of Deep Learning methods for Cosmology
 
 - DeepSphere: Efficient spherical Convolutional Neural Network with HEALPix sampling for cosmological applications <br>
   Nathanaël Perraudin, Michaël Defferrard, Tomasz Kacprzak, Raphael Sgier <br>
-  https://arxiv.org/abs/1810.12186
+  https://arxiv.org/abs/1810.12186 <br>
   https://github.com/SwissDataScienceCenter/DeepSphere
 
 - DeepCMB: Lensing Reconstruction of the Cosmic Microwave Background with Deep Neural Networks <br>
@@ -53,6 +53,6 @@ List of Deep Learning methods for Cosmology
   
 - CMU DeepLens: Deep Learning For Automatic Image-based Galaxy-Galaxy Strong Lens Finding <br>
   Francois Lanusse, Quanbin Ma, Nan Li, Thomas E. Collett, Chun-Liang Li, Siamak Ravanbakhsh, Rachel Mandelbaum, Barnabas Poczos <br>
-  https://arxiv.org/abs/1703.02642
+  https://arxiv.org/abs/1703.02642 <br>
   https://github.com/McWilliamsCenter/CMUDeepLens
 
