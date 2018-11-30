@@ -44,7 +44,7 @@ List of Deep Learning methods for Cosmology
   https://arxiv.org/abs/1802.01212
   
 - Fast Automated Analysis of Strong Gravitational Lenses with Convolutional Neural Networks
-  Yashar D. Hezaveh, Laurence Perreault Levasseur, Philip J. Marshall
+  Yashar D. Hezaveh, Laurence Perreault Levasseur, Philip J. Marshall <br>
   https://arxiv.org/abs/1708.08842
   
 - Uncertainties in Parameters Estimated with Neural Networks: Application to Strong Gravitational Lensing <br>
