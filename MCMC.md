@@ -68,3 +68,92 @@
 - Stochastic Gradient Descent as Approximate Bayesian Inference <br>
   Stephan Mandt, Matthew D. Hoffman, David M. Blei <br>
   https://arxiv.org/abs/1704.04289
+
+
+- Taking the Human Out of the Loop: A Review of Bayesian Optimization <br>
+  Bobak Shahriari, Kevin Swersky, Ziyu Wang, Ryan P. Adams and Nando de Freitas <br>
+  https://www.cs.ox.ac.uk/people/nando.defreitas/publications/BayesOptLoop.pdf
+  
+- Practical Bayesian Optimization of Machine Learning Algorithms <br>
+  Jasper Snoek, Hugo Larochelle, Ryan P. Adams <br>
+  https://arxiv.org/abs/1206.2944
+  
+- Probabilistic machine learning and artificial intelligence <br>
+  Zoubin Ghahramani <br>
+  https://www.repository.cam.ac.uk/bitstream/handle/1810/248538/Ghahramani%202015%20Nature.pdf
+  
+  
+- Neural Adaptive Sequential Monte Carlo <br>
+  Shixiang Gu, Zoubin Ghahramani, Richard E. Turner <br>
+  https://arxiv.org/abs/1506.03338
+  
+
+- Bayesian Convolutional Neural Networks with Bernoulli Approximate Variational Inference <br>
+  Yarin Gal, Zoubin Ghahramani <br>
+  https://arxiv.org/abs/1506.02158
+  
+- Bayesian Training of Backpropagation Networks by the Hybrid Monte Carlo Method <br>
+  Radford M. Neal <br>
+  http://www.cs.utoronto.ca/~radford/bbp.abstract.html
+  
+  
+- What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision? <br>
+  Alex Kendall, Yarin Gal <br>
+  https://papers.nips.cc/paper/7141-what-uncertainties-do-we-need-in-bayesian-deep-learning-for-computer-vision.pdf
+  
+- Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning <br>
+  http://proceedings.mlr.press/v48/gal16.pdf
+  
+
+- Deep Bayesian Active Learning with Image Data <br>
+  Yarin Gal, Riashat Islam, Zoubin Ghahramani <br>
+  https://arxiv.org/abs/1703.02910
+  
+  
+- Variational Bayesian dropout: pitfalls and fixes <br>
+  Jiri Hron, Alexander G. de G. Matthews, Zoubin Ghahramani <br>
+  https://arxiv.org/abs/1807.01969
+  
+- Ergodic Measure Preserving Flows <br>
+  Yichuan Zhang, Jose Miguel Hernandez-Lobato, Zoubin Ghahramani <br>
+  https://arxiv.org/abs/1805.10377
+  
+  
+  
+- Gaussian Process Behaviour in Wide Deep Neural Networks <br>
+  Alexander G. de G. Matthews, Mark Rowland, Jiri Hron, Richard E. Turner, Zoubin Ghahramani <br>
+  https://arxiv.org/abs/1804.11271
+
+- Turing: A Language for Flexible Probabilistic Inference <br>
+  Hong Ge, Kai Xu, Zoubin Ghahramani <br>
+  http://proceedings.mlr.press/v84/ge18b.html
+  
+  
+  
+- GPflow: A Gaussian Process Library using TensorFlow <br>
+  Alexander G. de G. Matthews <br>
+  http://www.jmlr.org/papers/volume18/16-537/16-537.pdf
+  
+  
+  
+
+- Sandwiching the marginal likelihood using bidirectional Monte Carlo <br>
+  Roger B. Grosse, Zoubin Ghahramani, Ryan P. Adams <br>
+  https://arxiv.org/abs/1511.02543
+  
+  
+  
+  http://delivery.acm.org/10.1145/1110000/1102369/p137-chu.pdf
+  
+  
+  http://bayesiandeeplearning.org/
+  
+  https://www.cs.ox.ac.uk/people/yarin.gal/website/PDFs/2017_OReilly_talk.pdf
+  
+  https://github.com/sjchoi86/bayes-nn
+  
+  http://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf
+  
+  http://www.cs.utoronto.ca/~radford/ftp/thesis.pdf
+  
+  https://openreview.net/pdf?id=S1grRoR9tQ
