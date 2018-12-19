@@ -46,5 +46,25 @@
   Dustin Tran, Matthew D. Hoffman, Rif A. Saurous, Eugene Brevdo, Kevin Murphy, David M. Blei <br>
   https://arxiv.org/abs/1701.03757
   
+- Accelerate Monte Carlo Simulations with Restricted Boltzmann Machines <br>
+  Li Huang, Lei Wang <br>
+  https://arxiv.org/pdf/1610.02746.pdf
+  
+- Self-Learning Monte Carlo Method <br>
+  Junwei Liu, Yang Qi, Zi Yang Meng, Liang Fu <br>
+  https://arxiv.org/pdf/1610.03137.pdf
   
   
+- Markov Chain Monte Carlo and Variational Inference: Bridging the Gap <br>
+  Tim Salimans, Diederik P. Kingma, Max Welling <br>
+  https://arxiv.org/abs/1410.6460
+  
+- A-NICE-MC: Adversarial Training for MCMC <br>
+  Jiaming Song, Shengjia Zhao, Stefano Ermon <br>
+  https://arxiv.org/abs/1706.07561 <br>
+  https://github.com/ermongroup/a-nice-mc
+
+
+- Stochastic Gradient Descent as Approximate Bayesian Inference <br>
+  Stephan Mandt, Matthew D. Hoffman, David M. Blei <br>
+  https://arxiv.org/abs/1704.04289
