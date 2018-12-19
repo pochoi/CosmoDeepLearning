@@ -83,6 +83,10 @@ C. E. Petrillo, C. Tortora, S. Chatterjee, G. Vernardos, L. V. E. Koopmans, G. V
   https://arxiv.org/abs/1811.03786
 
 
+- Celeste: Variational inference for a generative model of astronomical images
+  Jeffrey Regier, Andrew Miller, Jon McAuliffe, Ryan Adams, Matt Hoffman, Dustin Lang, David Schlegel, Prabhat <br>
+  https://arxiv.org/abs/1506.01351
+
 
 
 - ContextNet: Deep learning for Star Galaxy Classification <br>
