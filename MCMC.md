@@ -104,6 +104,11 @@
 - Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning <br>
   http://proceedings.mlr.press/v48/gal16.pdf
   
+  
+  
+- Weight Uncertainty in Neural Networks <br>
+  Charles Blundell, Julien Cornebise, Koray Kavukcuoglu, Daan Wierstra <br>
+  https://arxiv.org/abs/1505.05424
 
 - Deep Bayesian Active Learning with Image Data <br>
   Yarin Gal, Riashat Islam, Zoubin Ghahramani <br>
