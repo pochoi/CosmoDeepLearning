@@ -164,3 +164,7 @@
   http://www.cs.utoronto.ca/~radford/ftp/thesis.pdf
   
   https://openreview.net/pdf?id=S1grRoR9tQ
+  
+  https://arxiv.org/pdf/1602.05221.pdf
+  
+  
