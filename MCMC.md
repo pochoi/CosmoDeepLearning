@@ -148,6 +148,8 @@
   
   
   
+  https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf
+  
   http://delivery.acm.org/10.1145/1110000/1102369/p137-chu.pdf
   
   
