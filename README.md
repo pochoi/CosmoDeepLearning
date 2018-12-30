@@ -142,6 +142,18 @@ C. E. Petrillo, C. Tortora, S. Chatterjee, G. Vernardos, L. V. E. Koopmans, G. V
 Rui Li, Yiping Shu, Jianlin Su, Haicheng Feng, Guobao Zhang, Jiancheng Wang, Hongtao Liu <br>
   https://arxiv.org/abs/1807.11678
   
+  
+  
+  
+- An improved cosmological parameter inference scheme motivated by deep learning <br>
+  Dezső Ribli, Bálint Ármin Pataki, István Csabai <br>
+  https://arxiv.org/abs/1806.05995
+  
+  
+  
+  
+  
+  
 ## Other physics areas
 
 - The Higgs boson machine learning challenge <br>
