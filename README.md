@@ -1,14 +1,14 @@
 # CosmoDeepLearning
 List of Deep Learning methods in Cosmology
 
+- DeepSphere: Efficient spherical Convolutional Neural Network with HEALPix sampling for cosmological applications <br>
+  Nathanaël Perraudin, Michaël Defferrard, Tomasz Kacprzak, Raphael Sgier <br>
+  https://arxiv.org/abs/1810.12186 <br>
+  https://github.com/SwissDataScienceCenter/DeepSphere
 
 - Analysis of Cosmic Microwave Background with Deep Learning <br>
   Siyu He, Siamak Ravanbakhsh, Shirley Ho <br>
   https://openreview.net/forum?id=B15uoOyvz
-
-- DeepSphere: Efficient spherical Convolutional Neural Network with HEALPix sampling for cosmological applications <br>
-  Nathanaël Perraudin, Michaël Defferrard, Tomasz Kacprzak, Raphael Sgier <br>
-  https://arxiv.org/abs/1810.12186
 
 - DeepCMB: Lensing Reconstruction of the Cosmic Microwave Background with Deep Neural Networks <br>
   J. Caldeira, W. L. K. Wu, B. Nord, C. Avestruz, S. Trivedi, K. T. Story <br>
@@ -18,13 +18,16 @@ List of Deep Learning methods in Cosmology
 
 - Creating Virtual Universes Using Generative Adversarial Networks <br>
   Mustafa Mustafa, Deborah Bard, Wahid Bhimji, Zarija Lukić, Rami Al-Rfou, Jan Kratochvil <br>
-  https://arxiv.org/abs/1706.02390
+  https://arxiv.org/abs/1706.02390 <br>
+  https://github.com/MustafaMustafa/cosmoGAN
   
 - Fast Cosmic Web Simulations with Generative Adversarial Networks <br>
   Andres C. Rodriguez, Tomasz Kacprzak, Aurelien Lucchi, Adam Amara, Raphael Sgier, Janis Fluri, Thomas Hofmann, Alexandre Réfrégier <br>
   https://arxiv.org/abs/1801.09070
 
-
+- Cosmological model discrimination with Deep Learning <br>
+  Jorit Schmelzle, Aurelien Lucchi, Tomasz Kacprzak, Adam Amara, Raphael Sgier, Alexandre Réfrégier, Thomas Hofmann <br>
+  https://arxiv.org/abs/1707.05167
 
 
 - Learning to Predict the Cosmological Structure Formation <br>
@@ -50,9 +53,17 @@ List of Deep Learning methods in Cosmology
   Yashar D. Hezaveh, Laurence Perreault Levasseur, Philip J. Marshall
   https://arxiv.org/abs/1708.08842
   
+- Uncertainties in Parameters Estimated with Neural Networks: Application to Strong Gravitational Lensing <br>
+  Laurence Perreault Levasseur, Yashar D. Hezaveh, Risa H. Wechsler <br>
+  https://arxiv.org/abs/1708.08843
+  
 - CMU DeepLens: Deep Learning For Automatic Image-based Galaxy-Galaxy Strong Lens Finding <br>
   Francois Lanusse, Quanbin Ma, Nan Li, Thomas E. Collett, Chun-Liang Li, Siamak Ravanbakhsh, Rachel Mandelbaum, Barnabas Poczos <br>
   https://arxiv.org/abs/1703.02642
+
+- Learning from deep learning: better cosmological parameter inference from weak lensing maps <br>
+  Dezső Ribli, Bálint Ármin Pataki, István Csabai <br>
+  https://arxiv.org/abs/1806.05995
 
 - Deep Convolutional Neural Networks as strong gravitational lens detectors <br>
   C. Schaefer, M. Geiger, T. Kuntzer, J-P. Kneib <br>
@@ -66,9 +77,13 @@ List of Deep Learning methods in Cosmology
   C. E. Petrillo, C. Tortora, S. Chatterjee, G. Vernardos, L. V. E. Koopmans, G. Verdoes Kleijn, N. R. Napolitano, G. Covone, P. Schneider, A. Grado, J. McFarland <br>
   https://arxiv.org/abs/1702.07675
   
-- Uncertainties in Parameters Estimated with Neural Networks: Application to Strong Gravitational Lensing <br>
-  Laurence Perreault Levasseur, Yashar D. Hezaveh, Risa H. Wechsler <br>
-  https://arxiv.org/abs/1708.08843
+- Celeste: Variational inference for a generative model of astronomical images <br>
+  Jeffrey Regier, Andrew Miller, Jon McAuliffe, Ryan Adams, Matt Hoffman, Dustin Lang, David Schlegel, Prabhat <br>
+  https://arxiv.org/abs/1506.01351
+
+- Approximate Inference for Constructing Astronomical Catalogs from Images <br>
+  Jeffrey Regier, Andrew C. Miller, David Schlegel, Ryan P. Adams, Jon D. McAuliffe, Prabhat Mbr<
+  https://arxiv.org/abs/1803.00113
   
 - LensExtractor: A Convolutional Neural Network in Search of Strong Gravitational Lenses <br>
   Milad Pourrahmani, Hooshang Nayyeri, Asantha Cooray <br>
@@ -123,11 +138,15 @@ C. E. Petrillo, C. Tortora, S. Chatterjee, G. Vernardos, L. V. E. Koopmans, G. V
   
 - Classifying Radio Galaxies with Convolutional Neural Network <br>
   Arun Aniyan, Kshitij Thorat <br>
-  <br>
+  https://arxiv.org/abs/1705.03413
   
 - Deep learning for galaxy surface brightness profile fitting <br>
   D. Tuccillo, M. Huertas-Company, E. Decencière, S. Velasco-Forero, H. Domínguez Sánchez, P. Dimauro <br>
   https://arxiv.org/abs/1711.03108
+  
+- Unsupervised feature-learning for galaxy SEDs with denoising autoencoders <br>
+  Joana Frontera-Pons, Florent Sureau, Jerome Bobin, Emeric Le Floc'h 
+  https://arxiv.org/abs/1705.05620
   
 - Convolutional Neural Networks for Spectroscopic Redshift Estimation on Euclid Data <br>
   Radamanthys Stivaktakis, Grigorios Tsagkatakis, Bruno Moraes, Filipe Abdalla, Jean-Luc Starck, Panagiotis Tsakalides <br>
@@ -149,8 +168,17 @@ Rui Li, Yiping Shu, Jianlin Su, Haicheng Feng, Guobao Zhang, Jiancheng Wang, Hon
   Dezső Ribli, Bálint Ármin Pataki, István Csabai <br>
   https://arxiv.org/abs/1806.05995
   
-  
-  
+- Image-based deep learning for classification of noise transients in gravitational wave detectors <br>
+  Massimiliano Razzano, Elena Cuoco <br>
+  https://arxiv.org/abs/1803.09933
+
+- Variational Inference as an alternative to MCMC for parameter estimation and model selection <br>
+  Anirudh Jain, P.K. Srijith, Shantanu Desai <br>
+  https://arxiv.org/abs/1803.06473
+
+- Astronomical image reconstruction with convolutional neural networks <br>
+  Rémi Flamary <br>
+  https://arxiv.org/abs/1612.04526
   
   
   
