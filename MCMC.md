@@ -188,3 +188,6 @@
   Riemann Manifold Langevin and Hamiltonian Monte Carlo <br>
   https://pdfs.semanticscholar.org/16c5/06c5bb253f7528ddcc80c72673fabf584f32.pdf
   
+  An Efficient Implementation of Riemannian Manifold Hamiltonian Monte Carlo for
+Gaussian Process Models <br>
+  http://ulrichpaquet.com/rmhmc.pdf
