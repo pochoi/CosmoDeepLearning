@@ -176,3 +176,7 @@
   https://arxiv.org/pdf/1803.10998.pdf
   
   https://cse.buffalo.edu/faculty/mbeal/thesis/index.html
+
+  https://duvenaud.github.io/sta414/lectures/09-svi.pdf
+  
+  https://arxiv.org/pdf/1506.08180.pdf
