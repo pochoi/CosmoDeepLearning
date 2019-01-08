@@ -180,3 +180,11 @@
   https://duvenaud.github.io/sta414/lectures/09-svi.pdf
   
   https://arxiv.org/pdf/1506.08180.pdf
+
+  Variational Dropout and the Local Reparameterization Trick <br>
+  Diederik P. Kingma, Tim Salimans, Max Welling <br>
+  https://arxiv.org/abs/1506.02557
+  
+  Riemann Manifold Langevin and Hamiltonian Monte Carlo <br>
+  https://pdfs.semanticscholar.org/16c5/06c5bb253f7528ddcc80c72673fabf584f32.pdf
+  
