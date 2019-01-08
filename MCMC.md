@@ -191,3 +191,7 @@
   An Efficient Implementation of Riemannian Manifold Hamiltonian Monte Carlo for
 Gaussian Process Models <br>
   http://ulrichpaquet.com/rmhmc.pdf
+
+
+  Weight Uncertainty in Neural Networks <br>
+  https://arxiv.org/pdf/1505.05424.pdf
