@@ -168,3 +168,11 @@
   https://arxiv.org/pdf/1602.05221.pdf
   
   
+  
+  Variational Inference
+  
+  http://www.robots.ox.ac.uk/~sjrob/Pubs/fox_vbtut.pdf
+  
+  https://arxiv.org/pdf/1803.10998.pdf
+  
+  https://cse.buffalo.edu/faculty/mbeal/thesis/index.html
